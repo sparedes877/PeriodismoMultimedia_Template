@@ -11,7 +11,7 @@ Univesidad de Granada
 
 **Titulo** : Poesía en Granada
 
-**Autor(es)** Paulina López, Sebastián Paredes
+**Autor(es)** Paulina López, Sebastián Pareeeedes
 
 **Resumen** : _________
 
