@@ -1,4 +1,4 @@
-## (Poesía en Granada)  
+## (Nombre del proyecto)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,9 +9,9 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Poesía en Granada_______
 
-**Autor(es)** ______________
+**Autor(es)** Sebastián Paredes 
 
 **Resumen** : _________
 
