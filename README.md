@@ -11,9 +11,9 @@ Univesidad de Granada
 
 **Titulo** : Poesía en Granada
 
-**Autor(es)** Paulina López, Sebastián Pareeeedes
+**Autor(es)** Paulina López, Sebastián Paredes
 
-**Resumen** : _________
+**Resumen** : ____Un tour poético por la ciudad andaluza que enamora a propios y extraños_____
 
 **logotipo** :  ________
 
