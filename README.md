@@ -9,23 +9,23 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : Poesía en Granada_______
+**Titulo** : Poesía en Granada
 
-**Autor(es)** Sebastián Paredes 
+**Autor(es)** Paulina López, Sebastián Paredes
 
 **Resumen** : _________
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): 
 
-**Hashtag**  ___
+**Hashtag**  
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2022
 
-**Medios** (donde se tiene presencia): 
+**Medios** Aplicación, Facebook, Instagram y Twitter 
 
 
 *  :octocat: (github url) 
