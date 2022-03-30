@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## (Poesía en Granada)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
