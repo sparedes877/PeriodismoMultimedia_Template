@@ -18,7 +18,7 @@ que la poesía es la protagonista.
 **Logotipo** : 
 
 ![GRANADA ES POESÍA](https://github.com/sparedes877/Poesia-en-Granada_2022/blob/master/poesiaengranada.png)
-![POESIA](
+![POESIA](https://github.com/sparedes877/Poesia-en-Granada_2022/blob/master/poessiaengrana.png)
 
 **Slogan** : Los placeres poéticos granadinos
 
@@ -46,7 +46,7 @@ Actividades de brainstorming mediante Storyboarder
 * Proyecto de la clase de Creación Multimedia en el Máster de Nuevos Medios Interactivos y Periodismo Multimedia. Resumen: Un recorrido por los espacios
 en los que se desenvolvía Ferderico García Lorca por la ciudad de Granada, y se habla acerca de su vida y de su legado poetico. 
 * Tour in Málaga "Poemas para recordar Granada" (https://www.toursinmalaga.com/es/poemas-para-recordar-de-granada/) habla acerca de la vida de Federico
-* García Lorca y el porqué es un lugar digno de visitar una vez estando en Andalucía.
+García Lorca y el porqué es un lugar digno de visitar una vez estando en Andalucía.
 
 **Motivación de la propuesta** 
 La propuesta surge apartir de un proyecto interactivo realizado por una chica peruana que cursó el máster en Nuevos Medios Interactivos y Periodismo
