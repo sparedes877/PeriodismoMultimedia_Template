@@ -11,7 +11,7 @@ Univesidad de Granada
 
 **Autor(es)** Paulina López, Sebastián Paredes
 
-**Resumen** : 
+**Resumen** : Poesía en Granada es un proyecto interactivo, para turistas y locales conozcan y recorran la ciudad andaliza mediante la poesía. A través de uan aplicación, los usuarios descubrirán a los poetas que han pasado por esta ciudad y dedicado sus versos, y los espacios fisícos en los que la poesía vive.
 
 **logotipo** :  ________
 
