@@ -20,7 +20,7 @@ Univesidad de Granada
 **Hashtag** :#poesiagranadina #vidaandaluza 
 
 **Licencia** : En el presente proyecto utilzaremos una de las licencias de Creative Commons: Reconocimiento-SinObraDerivada 
-CC BY-ND, en donde diferentes usuarios podrán  (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+CC BY-ND, en donde diferentes usuarios podrán utilizar la información según sus necesidades sin poder hacer modificaciones sin previa autorización (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 20 de abril 2022
 
