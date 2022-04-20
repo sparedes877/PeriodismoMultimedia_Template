@@ -15,9 +15,12 @@ Univesidad de Granada
 vive. Al igual que en otros proyectos transmedia, en "Granada es poesía" se fusiona el espacio físico con el digital: un reccorido urbano virtual en el
 que la poesía es la protagonista.
 
-**logotipo** :  ![GRANADA ES POESÍA](https://github.com/sparedes877/Poesia-en-Granada_2022/blob/master/Poes%C3%ADa%20en%20GranADA.png)
+**Logotipo** : 
 
-**Slogan** :  Los placeres poéticos granadinos
+![GRANADA ES POESÍA](https://github.com/sparedes877/Poesia-en-Granada_2022/blob/master/poesiaengranada.png)
+![POESIA](
+
+**Slogan** : Los placeres poéticos granadinos
 
 **Hashtag** :#poesiagranadina #vidaandaluza 
 
@@ -32,11 +35,11 @@ CC BY-ND, en donde diferentes usuarios podrán utilizar la información según s
 
 ### Metodología
 
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+Metodología de desarrollo: 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades de brainstorming mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades de brainstorming mediante Storyboarder
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
@@ -44,9 +47,6 @@ Actividades de brainstorming mediante Trello https://trello.com/b/3YjvDccp/proye
 en los que se desenvolvía Ferderico García Lorca por la ciudad de Granada, y se habla acerca de su vida y de su legado poetico. 
 * Tour in Málaga "Poemas para recordar Granada" (https://www.toursinmalaga.com/es/poemas-para-recordar-de-granada/) habla acerca de la vida de Federico
 * García Lorca y el porqué es un lugar digno de visitar una vez estando en Andalucía.
-
-
-**Necesidad/oportunidad** 
 
 **Motivación de la propuesta** 
 La propuesta surge apartir de un proyecto interactivo realizado por una chica peruana que cursó el máster en Nuevos Medios Interactivos y Periodismo
@@ -91,7 +91,6 @@ Instagram: maqueteción (https://instagram.com/granada_poesia?igshid=YmMyMTA2M2Y
 Facebook
 Tiktok
 
-
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
@@ -105,44 +104,15 @@ Tiktok
 
 * Grado de consecución del proyecto: Ideación y boseto
 * Problemas identificados: El capital humano es reducido: no hay diseñador web, creador de contenidos y un community manager.  
-* Propuestas de mejora: Mejorar la interfaz en la aplicación móvil de protopie, en la cual el usuario navega por las diferentes partes de Granada 
-* Posible interés del proyecto (¿ Quien podría colaborar / involucrarse en el proyecto? ¿viable?)
-
-
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
-
-
-
+* Propuestas de mejora: Mejorar la interfaz de la aplicación móvil de protopie, en la cual el usuario navega por las diferentes partes de Granada 
+* Posible interés del proyecto: 
+-Podría ser interesante para el ayuntamiento de Granada y fomentar el turismo, la cultura y la poesía. 
+-Las diversas facultades de la Universidad de Granada podrían ayudar en el desarrollo del proyecto. 
 
 ----
 
 **Referencias y recursos utilizados** :
-
-* [Proceso UX](https://uxmastery.com/resources/process/)
-* [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
-* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
-
-
-
-
-
-
-
-
-
-
-
-
+Protopie
+GitHub
+Canva
+Storyboarder
