@@ -13,7 +13,7 @@ Univesidad de Granada
 
 **Resumen** : Poesía en Granada es un proyecto interactivo, para turistas y locales conozcan y recorran la ciudad andaliza mediante la poesía. A través de uan aplicación, los usuarios descubrirán a los poetas que han pasado por esta ciudad y dedicado sus versos, y los espacios fisícos en los que la poesía vive.
 
-**logotipo** :  ________
+**logotipo** :  ___![GRANADA ES POESÍA](https://www.canva.com/design/DAE-bs958F0/view)_____
 
 **Slogan** :  Los placeres poéticos granadinos
 
@@ -52,9 +52,11 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Necesidad/oportunidad** 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  
+PUBLICO OBJETIVO: HOMBRE Y MUJERES 18-60 AÑOS. 
+INTERES: ARTE, POESÍA
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
