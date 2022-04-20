@@ -15,7 +15,7 @@ Univesidad de Granada
 vive. Al igual que en otros proyectos transmedia, en "Granada es poesía" se fusiona el espacio físico con el digital: un reccorido urbano virtual en el
 que la poesía es la protagonista.
 
-**logotipo** :  ___![GRANADA ES POESÍA]()__
+**logotipo** :  ![hola](https://github.com/sparedes877/Poesia-en-Granada_2022/blob/master/Poes%C3%ADa%20en%20GranADA.png)
 
 **Slogan** :  Los placeres poéticos granadinos
 
