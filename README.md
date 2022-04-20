@@ -7,7 +7,7 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : Poesía en Granada
+**Titulo** : GRANADA ES POESÍA
 
 **Autor(es)** Paulina López, Sebastián Paredes
 
