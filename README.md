@@ -40,9 +40,10 @@ Actividades de brainstorming mediante Trello https://trello.com/b/3YjvDccp/proye
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* Tour in Málaga "Poemas para recordar Granada" (https://www.toursinmalaga.com/es/poemas-para-recordar-de-granada/) habla acerca de la vida de Federico García Lorca y el porqué es un lugar digno de visitar una vez estando en Andalucía.
-* Proyecto de la clase 
-* 
+* Proyecto de la clase de Creación Multimedia en el Máster de Nuevos Medios Interactivos y Periodismo Multimedia. Resumen: Un recorrido por los espacios
+en los que se desenvolvía Ferderico García Lorca por la ciudad de Granada, y se habla acerca de su vida y de su legado poetico. 
+* Tour in Málaga "Poemas para recordar Granada" (https://www.toursinmalaga.com/es/poemas-para-recordar-de-granada/) habla acerca de la vida de Federico
+* García Lorca y el porqué es un lugar digno de visitar una vez estando en Andalucía.
 
 
 **Necesidad/oportunidad** 
@@ -85,7 +86,7 @@ Boseto de aplicación protopie
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada:
 boceto en Canvas
 
-* redes sociales:
+* Redes sociales:
 Instagram: maqueteción (https://instagram.com/granada_poesia?igshid=YmMyMTA2M2Y=)
 Facebook
 Tiktok
@@ -97,7 +98,8 @@ Tiktok
 
 * Test de la aplicación con usuarios
 * Encuestas de satisfacción
-* 
+* Metricas redes sociales
+* Descargas de aplicaciones
 
 ### Conclusiones y trabajo futuro
 
