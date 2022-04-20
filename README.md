@@ -20,7 +20,7 @@ que la poesía es la protagonista.
 ![GRANADA ES POESÍA](https://github.com/sparedes877/Poesia-en-Granada_2022/blob/master/poesiaengranada.png)
 ![POESIA](https://github.com/sparedes877/Poesia-en-Granada_2022/blob/master/poessiaengrana.png)
 
-**Slogan** : Los placeres poéticos granadinos
+**Slogan** : Los placeres poéticos
 
 **Hashtag** :#poesiagranadina #vidaandaluza 
 
