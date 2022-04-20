@@ -35,7 +35,7 @@ CC BY-ND, en donde diferentes usuarios podrán utilizar la información según s
 
 ### Metodología
 
-Metodología de desarrollo: 
+Metodología de desarrollo
 
 ### Etapa 1: Ideación de proyecto 
 
@@ -65,7 +65,7 @@ La aplicación será la plataforma principal del proyecto interactivo. A través
 diferentes misiones que deben cumplir.
 
 **Las redes sociales**:
-Serán empleadas para generar en primer lugar expectativa sobre el lanzamiento del proyecto y para logar el mayor número de descargas de
+Serán empleadas para generar en primer lugar expectativa sobre el lanzamiento del proyecto y para lograr el mayor número de descargas de
 la aplicación. Una vez lanzado el proyecto, las redes sociales serán usadas para compartir contenido de interés relacionado con el proyecto como por
 ejemplo un poema de García Lorca o una foto de un lugar de tertulia en Granada.
 
