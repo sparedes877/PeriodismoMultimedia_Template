@@ -26,14 +26,7 @@ CC BY-ND, en donde diferentes usuarios podrán utilizar la información según s
 
 **Medios** Aplicación, Facebook, Instagram y Twitter 
 
-
-*  :octocat: (github url) 
-* Twitter 
-* ... 
-
-
-
---- 
+---
 
 ### Metodología
 
@@ -41,7 +34,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades de brainstorming mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
@@ -53,19 +46,35 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 **Necesidad/oportunidad** 
 
 **Motivación de la propuesta** 
+La propuesta surge apartir de un proyecto interactivo realizado por una chica peruana que cursó el máster en Nuevos Medios Interactivos y Periodismo
+multimedia, en el cual abordó la vida de Federico García Lorca a tráves de una aplicación móvil, en donde se recorrían y se visitaban lo lugares en los
+cuales se desenvolvió tanto personalmente como en el arte, en este caso con su poesía.
+Tomando en cuenta esto Granada es una ciudad que recibe a millones de turistas anualmente. Existen diversos tours en la ciudad que permiten conocer y
+recorrer la ciudad andaluza, sin embargo, hasta el momento no se ha aprovechado el componente de la poesía en el turismo. "Granada es poesía" es la
+respuesta.
 
 **Personas/Usuarios**  
 PUBLICO OBJETIVO: HOMBRE Y MUJERES 18-60 AÑOS. 
 INTERES: ARTE, POESÍA
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+**Estilo de narración** 
+La aplicación será la plataforma principal del proyecto interactivo. A través de esta los usuarios realizarán el recorrido urbano y recibirán las
+diferentes misiones que deben cumplir.
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+**Las redes sociales**:
+Serán empleadas para generar en primer lugar expectativa sobre el lanzamiento del proyecto y para logar el mayor número de descargas de
+la aplicación. Una vez lanzado el proyecto, las redes sociales serán usadas para compartir contenido de interés relacionado con el proyecto como por
+ejemplo un poema de García Lorca o una foto de un lugar de tertulia en Granada.
 
+**Redes sociales**
+Twitter
+Instagram
+Tiktok
+Facebook
 
+**Activaciones**
+Se realizarán actividades en diferentes puntos de la ciudad andaluza como por ejemplo una tertulia en el que podrán participar los usuarios de la
+aplicación.
 
 ### Etapa 2: Prototipar / productos 
 
