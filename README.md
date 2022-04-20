@@ -11,7 +11,9 @@ Univesidad de Granada
 
 **Autor(es)** Paulina López, Sebastián Paredes
 
-**Resumen** : Poesía en Granada es un proyecto interactivo, para turistas y locales conozcan y recorran la ciudad andaliza mediante la poesía. A través de uan aplicación, los usuarios descubrirán a los poetas que han pasado por esta ciudad y dedicado sus versos, y los espacios fisícos en los que la poesía vive.
+**Resumen** : Poesía en Granada es un proyecto interactivo para que turistas y locales conozcan y recorran la ciudad andaliza mediante la poesía. A través de una aplicación, los usuarios descubrirán a los poetas que han pasado por esta ciudad y dedicado sus versos, y los espacios fisícos en los que la poesía
+vive. Al igual que en otros proyectos transmedia, en "Granada es poesía" se fusiona el espacio físico con el digital: un reccorido urbano virtual en el
+que la poesía es la protagonista.
 
 **logotipo** :  ___![GRANADA ES POESÍA](https://www.canva.com/design/DAE-bs958F0/view)____
 
@@ -38,8 +40,8 @@ Actividades de brainstorming mediante Trello https://trello.com/b/3YjvDccp/proye
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
+* Tour in Málaga "Poemas para recordar Granada" (https://www.toursinmalaga.com/es/poemas-para-recordar-de-granada/) habla acerca de la vida de Federico García Lorca y el porqué es un lugar digno de visitar una vez estando en Andalucía.
+* Proyecto de la clase 
 * 
 
 
@@ -54,8 +56,8 @@ recorrer la ciudad andaluza, sin embargo, hasta el momento no se ha aprovechado 
 respuesta.
 
 **Personas/Usuarios**  
-PUBLICO OBJETIVO: HOMBRE Y MUJERES 18-60 AÑOS. 
-INTERES: ARTE, POESÍA
+Público objetivo: hombre y mujeres 18-60 años. 
+Interes: Cultura, arte y poesía.
 
 **Estilo de narración** 
 La aplicación será la plataforma principal del proyecto interactivo. A través de esta los usuarios realizarán el recorrido urbano y recibirán las
@@ -78,26 +80,24 @@ aplicación.
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+Boseto de aplicación protopie
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada:
+boceto en Canvas
 
-* redes sociales (...) 
+* redes sociales:
+Instagram: maqueteción (https://instagram.com/granada_poesia?igshid=YmMyMTA2M2Y=)
+Facebook
+Tiktok
 
-* publicidad: banner (... ) 
-
-* ...
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
-
-
-
-
+* Test de la aplicación con usuarios
+* Encuestas de satisfacción
+* 
 
 ### Conclusiones y trabajo futuro
 
@@ -105,7 +105,7 @@ aplicación.
 * Grado de consecución del proyecto 
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Posible interés del proyecto (¿ Quien podría colaborar / involucrarse en el proyecto? ¿viable?)
 
 
 Referencias y recursos: 
@@ -129,9 +129,7 @@ Referencias y recursos:
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
 
-(...)
 * (Artículos ..  )
 * (Productos utilizados ) 
 * (Recursos tipo Imágenes, videos , etc.) 
