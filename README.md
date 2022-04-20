@@ -15,7 +15,7 @@ Univesidad de Granada
 vive. Al igual que en otros proyectos transmedia, en "Granada es poesía" se fusiona el espacio físico con el digital: un reccorido urbano virtual en el
 que la poesía es la protagonista.
 
-**logotipo** :  ![hola](https://github.com/sparedes877/Poesia-en-Granada_2022/blob/master/Poes%C3%ADa%20en%20GranADA.png)
+**logotipo** :  ![GRANADA ES POESÍA](https://github.com/sparedes877/Poesia-en-Granada_2022/blob/master/Poes%C3%ADa%20en%20GranADA.png)
 
 **Slogan** :  Los placeres poéticos granadinos
 
@@ -99,14 +99,13 @@ Tiktok
 * Test de la aplicación con usuarios
 * Encuestas de satisfacción
 * Metricas redes sociales
-* Descargas de aplicaciones
+* Número de descargas de aplicaciones 
 
 ### Conclusiones y trabajo futuro
 
-
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
+* Grado de consecución del proyecto: Ideación y boseto
+* Problemas identificados: El capital humano es reducido: no hay diseñador web, creador de contenidos y un community manager.  
+* Propuestas de mejora: Mejorar la interfaz en la aplicación móvil de protopie, en la cual el usuario navega por las diferentes partes de Granada 
 * Posible interés del proyecto (¿ Quien podría colaborar / involucrarse en el proyecto? ¿viable?)
 
 
