@@ -1,4 +1,4 @@
-## POESÍA EN GRANADA 
+## GRANADA ES POESÍA 
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
 Master de Nuevos medios interactivos y periodismo multimedia
