@@ -35,7 +35,7 @@ CC BY-ND, en donde diferentes usuarios podrán utilizar la información según s
 
 ### Metodología
 
-Metodología de desarrollo
+Metodología de desarrollo: Diseños de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences)
 
 ### Etapa 1: Ideación de proyecto 
 
