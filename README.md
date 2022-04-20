@@ -1,6 +1,4 @@
-## (Nombre del proyecto)  
-
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
+## POESÍA EN GRANADA 
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
 Master de Nuevos medios interactivos y periodismo multimedia
@@ -11,19 +9,19 @@ Univesidad de Granada
 
 **Titulo** : Poesía en Granada
 
-**Autor(es)** Paulina López, Sebastián Pareeeedes
+**Autor(es)** Paulina López, Sebastián Paredes
 
-**Resumen** : _________
+**Resumen** : 
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): 
+**Slogan** :  Los placeres poéticos granadinos
 
-**Hashtag**  
+**Hashtag** :#poesiagranadina #vidaandaluza 
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2022
+**Fecha** : 20 de abril 2022
 
 **Medios** Aplicación, Facebook, Instagram y Twitter 
 
